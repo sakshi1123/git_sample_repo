@@ -1,4 +1,4 @@
-a
+git status -> It prints status of git repository
 b
 c
 d
