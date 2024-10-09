@@ -1,5 +1,5 @@
 git status -> It prints status of git repository
-b
+git init -> it initilises the git repository
 c
 d
 e
