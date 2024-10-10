@@ -1,4 +1,5 @@
 git status -> It prints status of git repository
 git init -> it initilises the git repository
-c
- git add .: Adds all modified files in the current directory to the staging area.
+Git branch : It lists all local branches in your repository. The current branch you're working on is marked with an asterisk (*).
+git add .: Adds all modified files in the current directory to the staging area.
+
